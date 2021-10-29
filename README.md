@@ -1,2 +1,1 @@
-# studyJava2021
-# ReiStudy
+# studyJava
